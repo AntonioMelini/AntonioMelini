@@ -28,7 +28,7 @@ I would like to be able to apply this knowledge as part of work teams that allow
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pedro-antonio-melini-b98ab7238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro antonio melini" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pedro-antonio-melini-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro antonio melini" height="30" width="40" /></a>
 <a href="https://instagram.com/antoniomelini1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antoniomelini1" height="30" width="40" /></a>
 </p>
 
